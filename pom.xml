@@ -8,11 +8,11 @@
 		<version>2.2.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.toth</groupId>
+	<groupId>com.odonto</groupId>
 	<artifactId>toth</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>toth</name>
-	<description>Api-Toth</description>
+	<name>odonto</name>
+	<description>Api-Odonto</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
